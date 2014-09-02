@@ -9,7 +9,7 @@ main{
 	background-color:#FFFFFF;
 	margin-left:auto;
 	margin-right:auto;
-	padding: 20px 20px;
+	padding: 30px 30px;
 }
 
 body{
@@ -89,4 +89,19 @@ dt{
 
 ul{
 	list-style:none;
+}
+
+li{
+	padding: 10px;
+}
+
+a{
+	border-radius: 20px;
+	background-color:#FCC6C6;
+	border:solid 2px #820103;
+	padding:4px;
+	text-decoration:none;
+	color:#820103;
+	
+	
 }
