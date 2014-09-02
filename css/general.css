@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+
+main{
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	width: 80%;
+	background-color:#FFFFFF;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 20px 20px;
+}
+
+body{
+	background-color: #C7C7C7;
+}
+
+h1{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:3.5em;
+	color:#9C1F21;
+}
+
+h2{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:2em;
+	color:#9C1F21;
+}
+
+p{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+}
+
+li{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+}
+
+figcaption{
+	padding:1em;
+	border-bottom:3px solid #C7C7C7;
+	border-top:3px solid #C7C7C7;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-color: #C7C7C7;
+	font-size: 1em;
+}
+
+figure{
+	margin:0;
+	padding:0;
+}
+
+blockquote{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;	
+}
+
+.quote1{
+	border-top:3px solid #C7C7C7;
+	padding: 1em;
+	border-bottom:3px solid #C7C7C7;
+}
+
+.quote2{
+	border-bottom:3px solid #C7C7C7;
+	padding: 1em;
+}	
+
+cite{
+	display:block;
+	text-align:right;
+	color:#C7C7C7;
+}
+
+dl{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:1em;
+}
+
+dd{
+	margin-left: 10em;
+	
+}
+
+dt{
+	float:left;
+}
+
+ul{
+	list-style:none;
+}
